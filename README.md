@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?color=auto)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=header)
+
 <div align="center">
     <h2>Tech Stack</h2>
     <div>
@@ -25,4 +26,5 @@
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
     </div>
 </div>
-![footer](https://capsule-render.vercel.app/api?color=auto)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=timeGradient&section=footer)
